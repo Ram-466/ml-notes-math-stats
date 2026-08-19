@@ -2,8 +2,7 @@
 
 Linear algebra, probability, and statistics notes — the math that actually shows up in Machine Learning, kept practical rather than proof-heavy.
 
-← Back to Hub: https://github.com/Ram-466/ml-hub  
-Roadmap: https://github.com/Ram-466/ml-roadmap
+← Back to Hub: https://github.com/Ram-466/ml-hub
 
 ---
 
